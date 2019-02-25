@@ -5,4 +5,6 @@ class DemoController {
     def index() { }
 
     def stuff() {}
+
+    def anotherOne() {}
 }
