@@ -1,8 +1,6 @@
 package simplegrails
 
-class DemoController {
+class MoneyController {
 
     def index() { }
-
-    def stuff() {}
 }
